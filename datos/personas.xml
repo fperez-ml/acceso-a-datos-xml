@@ -1,0 +1,52 @@
+<list>
+    <Persona>
+        <nombre>Ana Pérez</nombre>
+        <anyoNacimiento>1995</anyoNacimiento>
+        <ciudad>Madrid</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Carlos Gómez</nombre>
+        <anyoNacimiento>1988</anyoNacimiento>
+        <ciudad>Barcelona</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Lucía Fernández</nombre>
+        <anyoNacimiento>2001</anyoNacimiento>
+        <ciudad>Valencia</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>David Ruiz</nombre>
+        <anyoNacimiento>1990</anyoNacimiento>
+        <ciudad>Sevilla</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Elena Martín</nombre>
+        <anyoNacimiento>1993</anyoNacimiento>
+        <ciudad>Bilbao</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Javier Alonso</nombre>
+        <anyoNacimiento>1985</anyoNacimiento>
+        <ciudad>Málaga</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Sofía Torres</nombre>
+        <anyoNacimiento>1999</anyoNacimiento>
+        <ciudad>Zaragoza</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Miguel Jiménez</nombre>
+        <anyoNacimiento>1992</anyoNacimiento>
+        <ciudad>Murcia</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Carmen Moreno</nombre>
+        <anyoNacimiento>1997</anyoNacimiento>
+        <ciudad>Palma</ciudad>
+    </Persona>
+    <Persona>
+        <nombre>Alejandro Navarro</nombre>
+        <anyoNacimiento>1989</anyoNacimiento>
+        <ciudad>Granada</ciudad>
+    </Persona>
+</list>
